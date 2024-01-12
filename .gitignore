@@ -115,6 +115,10 @@ dkms.conf
 hs_err_pid*
 replay_pid*
 
+### Gem ###
+Gemfile.lock
+Gemfile
+
 ### Jekyll ###
 _site/
 .sass-cache/
