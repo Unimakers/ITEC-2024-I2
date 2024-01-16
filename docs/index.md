@@ -13,7 +13,7 @@ Bienvenue dans la documentation du projet ITEC I2 2024 (Innovation technologique
 Dans le cadre scolaire, le projet ITEC nous demande cette année de créer un outil, un objet aliant plusieurs méthodes de conception. Notre projet en rassemble plusieurs : l'impression 3D plastique, la découpe laser et l'usinage.
 
 ## Commencer
-Pour débuter avec notre projet ITEC, consultez notre section [Présentation des projets](./docs/Projets/).
+Pour débuter avec notre projet ITEC, consultez notre section [Présentation des projets](./Projets).
 
 ## Contribuer
 
