@@ -6,20 +6,14 @@ title: Accueil
 
 # Bienvenue sur notre Documentation
 
-Bienvenue dans la documentation du projet ITEC I2 2024 (Innovation technologique et éco-conception). Ce site a pour but de fournir toutes les informations nécessaires pour comprendre et utiliser efficacement notre projet.
+Bienvenue dans la documentation du projet ITEC I2 2024 (Innovation technologique et éco-conception). Ce site a pour but de fournir toutes les informations nécessaires pour comprendre notre projet.
 
 ## À propos du Projet
 
 Dans le cadre scolaire, le projet ITEC nous demande cette année de créer un outil, un objet aliant plusieurs méthodes de conception. Notre projet en rassemble plusieurs : l'impression 3D plastique, la découpe laser et l'usinage.
 
 ## Commencer
-Pour débuter avec notre projet ITEC, consultez notre section [Démarrage rapide](/404).
-
-## Ressources
-
-- **Guide d'Installation** : Instructions détaillées pour installer et configurer le projet.
-- **Tutoriels** : Des tutoriels pour vous aider à démarrer avec le projet.
-- **FAQ** : Réponses aux questions fréquemment posées.
+Pour débuter avec notre projet ITEC, consultez notre section [Présentation des projets](/Projets/).
 
 ## Contribuer
 
