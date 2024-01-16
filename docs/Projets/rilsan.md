@@ -15,7 +15,7 @@ L'association [UniSique](https://www.instagram.com/unisique_asso/) utilise toute
 
 La solution la plus rapidement trouvée était d'utiliser des Rilsans : peu emcombrant et très facile d'utilisation, ces colliers de serrage en plastique polymère répondent à la problématique. Cependant, conscients de l'évolution écologique d'aujourd'hui, il était important pour nous de pouvoir mettre dans ce projet une notion de durabilité, c'est pourquoi nous avons créé un rilsan réutilisable en TPU qui est un plastique qui alie les propriété élastiques des élastomères et les propriétés mécaniques des thermoplastiques.
 
-![](/assets/Alex/rilsan.png "Rilsan")
+![](./docs/assets/Alex/rilsan.png "Rilsan")
 
 ## Modélisation 3D
 

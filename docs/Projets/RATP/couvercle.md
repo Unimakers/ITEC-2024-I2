@@ -18,9 +18,13 @@ L'idée initiale de ce système était d'acceder aux composants par un coté du 
 
 Nous nous avons décidé d'acceder aux entrailles de notre machine par le dessus de cette dernière. Cette facon de faire nous permet en effet d'acceder à l'interieur du robot facilement, elle implique cependant de concevoir des charnières et de contourner le capteur lidar se trouvant sur le "toit". Pour ce faire, nous décidons de modéliser deux portes autour du capteur, nous voyons comment dans la section [Modélisation 3D](#modélisation-3d).
 
+![](./docs/assets/RATP/couvercle/couvercle_espaces-portes.png) | ![](./docs/assets/RATP/couvercle/porte.png) | ![](./docs/assets/RATP/couvercle/charniere.png)
+
 ## Modélisation 3D
 
 La modélisation du toit commence par la définition des emplacements dédiés aux futurs composants tel que le capteur lidar ou le bouton d'arret/allumage. C'est ce que nous faisont dans un premier temps, puis dans un second temps nous procédons à l'élaboration des portes et des charnières symultanément afin qu'elles puissent s'accorder le mieux possible.
+
+![](./docs/assets/RATP/couvercle/couvercle.png)
 
 ## Difficultés rencontrées
 
