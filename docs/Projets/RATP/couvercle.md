@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Couvercle
-parent: Pièces du RATP
+parent: Projet RATP
 grand_parent: Présentation des projets
 nav_order: 1
 ---
