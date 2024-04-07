@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cockpit
-parent: Projet RATP
+parent: Pièces du RATP
 grand_parent: Présentation des projets
 nav_order: 2
 ---
